@@ -2,6 +2,9 @@
 
 REST API developed using ASP.NET Core.
 
+## Description
+This project simulates a simple banking system with authentication and transactions.
+
 ## Features
 - User & Admin authentication
 - Account management

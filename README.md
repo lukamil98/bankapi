@@ -1,24 +1,23 @@
 # Banking Web API
 
-REST API developed using ASP.NET Core.
-
 ## Description
-This project simulates a simple banking system with authentication and transactions.
+This project is a RESTful Web API built with ASP.NET Core that simulates a basic banking system. It allows users and administrators to manage accounts and perform transactions.
 
 ## Features
-- User & Admin authentication
+- User and Admin authentication
+- Role-based authorization
 - Account management
 - Money transfers between accounts
+- Balance validation
 
 ## Tech Stack
 - ASP.NET Core
-- Entity Framework
+- Entity Framework Core
 - SQL Server
+- REST API
 
-## How to run
-1. Clone repo
-2. Run database migrations
-3. Start the project
+## How to run the project
 
-## Tools
-- Swagger / Postman
+1. Clone the repository
+```bash
+git clone https://github.com/lukamil98/bankapi.git
